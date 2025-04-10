@@ -19,3 +19,4 @@ def plot_parabola(a=1, b=0, c=0):
 
 # Example usage
 plot_parabola(a=1, b=2, c=-3)
+wer
